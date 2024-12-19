@@ -3,6 +3,10 @@ This software allows building a cascade of classifiers, where each stage of the 
 
 **⚠️ Note:** The documentation for this project is currently in progress. Please check back later for updates.
 
+<div align="center">
+    <img src="docs/UVtrainer.gif" alt="UVtrainer GIF">
+</div>
+
 ## Author
 Roger Figueroa Quintero - [LinkedIn Profile](https://www.linkedin.com/in/roger-figueroa-quintero/)
 
