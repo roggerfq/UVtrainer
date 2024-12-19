@@ -1,0 +1,15 @@
+
+INFORMACIÓN GENERAL
+Este programa sirve para construir un clasificador en cascada de N etapas a partir de un conjunto de imágenes de entrenamiento. Una vez que el entrenamiento termina este programa genera un archivo XML en donde se almacena toda la información del clasificador.
+
+IMPORTANTE: Para compilar y ejecutar este programa debe tenerse previamente instalado el compilador gcc, el compilador g++, el programa cmake y las librerías de OpenCV y QT.
+
+COMPILACIÓN:
+Para compilar el programa siga los siguientes pasos:
+
+-Abra la terminal y diríjase a la carpeta build y a continuación escriba sin comillas “cmake ..”. 
+
+-Cuando el programa cmake haya terminado su ejecución escriba sin comillas “make”, esto producirá el ejecutable de nombre main.
+
+EJECUCIÓN:
+Para la ejecución escriba sin comillas “./main” y a continuación presione la tecla ENTER. Para saber como se usa este software consulte los anexos del archivo de la tesis.
